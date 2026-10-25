@@ -1,0 +1,4 @@
+interface:
+  display_name: "结构化口播精剪"
+  short_description: "按语义结构完成单人口播精剪、音频、B-roll、字幕与成片验收"
+  default_prompt: "使用 $structured-talking-head-edit 分析并精剪这条单人口播视频。"
