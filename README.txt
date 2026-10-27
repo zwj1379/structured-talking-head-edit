@@ -1,4 +1,4 @@
-口播精剪 Skill · structured-talking-head-edit v2.9.0
+口播精剪 Skill · SLBB-chatcut-ckb v2.9.0
 =====================================================
 
 【包含内容】
@@ -31,5 +31,5 @@
   详细安装见仓库根 README.md。
 
 【Skill 安装位置（本机示例）】
-/Users/a123/Library/Application Support/DoubaoWork/Default/.doubaowork/agent_mode/workspace/.user_skills/structured-talking-head-edit/
+/Users/a123/Library/Application Support/DoubaoWork/Default/.doubaowork/agent_mode/workspace/.user_skills/SLBB-chatcut-ckb/
 （用户自定义 Skill 目录，新任务会自动加载）

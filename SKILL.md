@@ -1,5 +1,5 @@
 ---
-name: structured-talking-head-edit
+name: SLBB-chatcut-ckb
 description: 按真实口播的语义结构精剪约 1～5 分钟的单人 Talking Head，处理口误、停顿、结构重排、景别、B-roll、字幕、音频和预览验收。用于短口播精剪；不用于长视频压缩、多机位访谈或自由改写观点。
 metadata:
   version: "2.9.0"

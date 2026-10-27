@@ -1,4 +1,4 @@
-# structured-talking-head-edit
+# slbb-chatcut-ckb
 
 **结构化口播精剪 Skill**（配合 ChatCut Desktop 使用）
 
@@ -33,7 +33,7 @@
 git clone https://github.com/YIAN6557/eian-riso-broll.git
 ```
 
-安装后在对应宿主中与 structured-talking-head-edit 并排使用即可。
+安装后在对应宿主中与 slbb-chatcut-ckb 并排使用即可。
 
 ---
 
@@ -41,15 +41,15 @@ git clone https://github.com/YIAN6557/eian-riso-broll.git
 
 ### 通道 A：WorkBuddy（MCP 连接器）
 
-1. 将本仓库内容放入 `~/.workbuddy/skills/structured-talking-head-edit/`
+1. 将本仓库内容放入 `~/.workbuddy/skills/slbb-chatcut-ckb/`
 2. `git clone https://github.com/YIAN6557/eian-riso-broll.git ~/.workbuddy/skills/eian-riso-broll`
 3. 确认 `~/.workbuddy/mcp.json` 中 ChatCut MCP 条目存在（文件名**没有前导点**）
-4. 用「新任务提示词.txt」开新会话，或直接说：用 structured-talking-head-edit + eian-riso-broll 帮我精剪这条口播并配 Riso 动画
+4. 用「新任务提示词.txt」开新会话，或直接说：用 slbb-chatcut-ckb + eian-riso-broll 帮我精剪这条口播并配 Riso 动画
 
 ### 通道 B：豆包工作（内置 ChatCut 插件）
 
 1. 插件商店启用 ChatCut 插件，确认 ChatCut Desktop 在后台运行
-2. 把本仓库内容（或整个仓库 zip）拖进对话框，AI 会解压装到 `.user_skills/structured-talking-head-edit/`
+2. 把本仓库内容（或整个仓库 zip）拖进对话框，AI 会解压装到 `.user_skills/slbb-chatcut-ckb/`
 3. eian-riso-broll 同样方式从官方仓库获取安装
 4. 重启豆包工作，新开会话验证
 
@@ -71,5 +71,5 @@ git clone https://github.com/YIAN6557/eian-riso-broll.git
 
 ## 许可说明
 
-- 本仓库（structured-talking-head-edit）为作者自有技能，保留所有权利；如需商业使用请联系作者。
+- 本仓库（slbb-chatcut-ckb）为作者自有技能，保留所有权利；如需商业使用请联系作者。
 - eian-riso-broll 版权归 Eian 所有，使用须遵守其官方仓库的 [Eian Personal Non-Commercial License 1.0](https://github.com/YIAN6557/eian-riso-broll/blob/main/LICENSE)。

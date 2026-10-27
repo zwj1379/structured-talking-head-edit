@@ -1,6 +1,6 @@
 【新任务启动提示词】—— 复制以下全部内容，粘贴到新会话的第一条消息：
 
-请使用「structured-talking-head-edit」Skill（v2.3.0），对本视频执行完整结构化口播精剪。
+请使用「SLBB-chatcut-ckb」Skill（v2.3.0），对本视频执行完整结构化口播精剪。
 
 【素材】
 - 主口播视频：/Users/a123/Desktop/肖哥口播合并.mp4（约4分钟单人夜景口播）
